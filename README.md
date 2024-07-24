@@ -53,9 +53,7 @@ By the end of this course, you will be able to:
 ### Prerequisites
 
 This course requires basic programming skills, Git,  and an understanding of
-the GitHub platform. You will use GitHub repositories with version control. You can complete all
-coursework without the need to acquire specialized compute resources and just
-using your browser.
+the GitHub platform. You will use GitHub repositories with version control. You can complete all coursework without the need to acquire specialized compute resources and just using your browser.
 
 > [!NOTE]
 > This course will use Codespaces, a GitHub technology that allows you to use
